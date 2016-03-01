@@ -21,7 +21,7 @@ object S1_ExceptionHandling {
         //        case ex:RuntimeException => {
         //          println("Don't bother reporting..." + ex.getMessage)
         //      }
-        case _=> println("Somthing went erong")
+        case _=> println("Somthing went wrong")
       }
     )
   }
